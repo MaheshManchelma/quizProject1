@@ -1,2 +1,2 @@
 # quizProject1
-This is the baisc console based quiz project 
+This is the basic console based quiz project 
